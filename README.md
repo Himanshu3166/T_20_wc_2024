@@ -1,4 +1,6 @@
  T20 World Cup 2024 - Data Analysis Dashboard 📊🔥
+
+ ![T20 Men's World Cup 2024](https://raw.githubusercontent.com/Himanshu3166/T_20_wc_2024/main/t20_wc_2024.png)
 Welcome to my T20 World Cup 2024 Data Analysis Dashboard—where cricket meets analytics! 🚀
 
 As a cricket enthusiast and a data analyst, I have combined my love for the game with data-driven insights to create this dynamic Power BI dashboard that unveils key patterns, top performers, and deep statistics from the grandest T20 showdown! 🎯
